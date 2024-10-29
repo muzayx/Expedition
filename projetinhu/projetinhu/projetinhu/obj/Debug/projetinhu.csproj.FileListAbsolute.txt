@@ -1,0 +1,22 @@
+D:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.csproj.AssemblyReference.cache
+D:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.csproj.SuggestedBindingRedirects.cache
+D:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.csproj.CoreCompileInputs.cache
+D:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.exe
+D:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.pdb
+D:\2°DS\DS\projetinhu\projetinhu\bin\Debug\projetinhu.exe.config
+D:\2°DS\DS\projetinhu\projetinhu\bin\Debug\projetinhu.exe
+D:\2°DS\DS\projetinhu\projetinhu\bin\Debug\projetinhu.pdb
+E:\2°DS\DS\projetinhu\projetinhu\bin\Debug\projetinhu.exe.config
+E:\2°DS\DS\projetinhu\projetinhu\bin\Debug\projetinhu.exe
+E:\2°DS\DS\projetinhu\projetinhu\bin\Debug\projetinhu.pdb
+E:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.csprojAssemblyReference.cache
+E:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.csproj.CoreCompileInputs.cache
+E:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.exe
+E:\2°DS\DS\projetinhu\projetinhu\obj\Debug\projetinhu.pdb
+F:\2DS\DS\2 bim\projetinhu\projetinhu\bin\Debug\projetinhu.exe.config
+F:\2DS\DS\2 bim\projetinhu\projetinhu\bin\Debug\projetinhu.exe
+F:\2DS\DS\2 bim\projetinhu\projetinhu\bin\Debug\projetinhu.pdb
+F:\2DS\DS\2 bim\projetinhu\projetinhu\obj\Debug\projetinhu.csprojAssemblyReference.cache
+F:\2DS\DS\2 bim\projetinhu\projetinhu\obj\Debug\projetinhu.csproj.CoreCompileInputs.cache
+F:\2DS\DS\2 bim\projetinhu\projetinhu\obj\Debug\projetinhu.exe
+F:\2DS\DS\2 bim\projetinhu\projetinhu\obj\Debug\projetinhu.pdb
